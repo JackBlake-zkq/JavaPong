@@ -1,5 +1,3 @@
-package com.pong;
-
 public final class App {
     private App() {
     }

@@ -1,5 +1,3 @@
-package com.pong;
-
 import javax.swing.JFrame;
 import java.awt.Graphics2D;
 import java.awt.Color;
